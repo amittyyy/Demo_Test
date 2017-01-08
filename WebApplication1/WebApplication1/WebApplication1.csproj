@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Views\test2nd.html" />
     <Content Include="Views\Viewtest.html" />
     <Content Include="Web.config" />
   </ItemGroup>
